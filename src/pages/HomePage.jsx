@@ -1,7 +1,7 @@
 import { useState } from "react";
 import WelcomeScreen from "../components/WelcomeScreen";
 import Navbar from "../components/Navbar";
-import Header from "../components/header";
+import Header from "../components/Header";
 import FeedbackSection from "../components/feedbackSection";
 import Footer from "../components/Footer";
 import BookDisplay from "../components/BookDisplay";
