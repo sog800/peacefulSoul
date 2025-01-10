@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Book Title 1",
+    "author": "Author 1",
+    "description": "A great book about amazing things.",
+    "image": "https://img.freepik.com/free-vector/abstract-book-cover-design_1035-11665.jpg"
+  },
+  {
+    "title": "Book Title 2",
+    "author": "Author 2",
+    "description": "Another incredible story to explore.",
+    "image": "https://img.freepik.com/free-vector/modern-geometric-book-cover_1035-11666.jpg"
+  },
+  {
+    "title": "Book Title 3",
+    "author": "Author 3",
+    "description": "A great book about amazing things.",
+    "image": "https://img.freepik.com/free-vector/minimalist-book-cover-template_1035-11667.jpg"
+  },
+  {
+    "title": "Book Title 4",
+    "author": "Author 4",
+    "description": "Another incredible story to explore.",
+    "image": "https://img.freepik.com/free-vector/creative-book-cover-with-abstract-shapes_1035-11668.jpg"
+  },
+  {
+    "title": "Book Title 5",
+    "author": "Author 5",
+    "description": "Discover the beauty of storytelling.",
+    "image": "https://img.freepik.com/free-vector/elegant-floral-book-cover-design_1035-11669.jpg"
+  },
+  {
+    "title": "Book Title 6",
+    "author": "Author 6",
+    "description": "An exciting adventure awaits!",
+    "image": "https://img.freepik.com/free-vector/abstract-waves-book-cover-template_1035-11670.jpg"
+  },
+  {
+    "title": "Book Title 7",
+    "author": "Author 7",
+    "description": "Dive into the world of imagination.",
+    "image": "https://img.freepik.com/free-vector/colorful-geometric-book-cover-design_1035-11671.jpg"
+  }
+]
